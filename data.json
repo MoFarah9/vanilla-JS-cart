@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "First Shoes",
+      "img": "./images/products/1.jpg",
+      "price": 20.99
+    },
+    {
+      "id": 2,
+      "title": "Second Shoes",
+      "img": "./images/products/2.jpg",
+      "price": 22.99
+    },
+    {
+      "id": 3,
+      "title": "Other Shoes",
+      "img": "./images/products/3.jpg",
+      "price": 10.5
+    },
+    {
+      "id": 4,
+      "title": "Nike Shoes",
+      "img": "./images/products/4.jpg",
+      "price": 50.99
+    },
+    {
+      "id": 5,
+      "title": "Just Shoes",
+      "img": "./images/products/5.jpg",
+      "price": 35
+    },
+    {
+      "id": 6,
+      "title": "Just Shoes",
+      "img": "./images/products/6.jpg",
+      "price": 35
+    },
+    {
+      "id": 7,
+      "title": "Just Shoes",
+      "img": "./images/products/7.jpg",
+      "price": 35
+    },
+    {
+      "id": 8,
+      "title": "Just Shoes",
+      "img": "./images/products/8.jpg",
+      "price": 35
+    },
+    {
+      "id": 9,
+      "title": "Just Shoes",
+      "img": "./images/products/9.jpg",
+      "price": 35
+    }
+  ]
+}
